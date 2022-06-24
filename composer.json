@@ -1,0 +1,33 @@
+{
+    "name": "schachbulle/contao-eventschopsolution-bundle",
+    "type": "contao-bundle",
+    "description": "contao-eventschopsolution-bundle für Contao 4",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Frank Hoppe",
+            "homepage": "https://www.schachbulle.de/"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "contao/core-bundle": "^4",
+    },
+    "conflict": {
+        "php": ">=7.1",
+        "contao/core-bundle": "^4.4",
+        "contao/calendar-bundle": "^4.4"
+    },
+    "extra": {
+        "contao-manager-plugin": "Schachbulle\\ContaoEventschopsolutionBundle\\ContaoManager\\Plugin"
+    },
+    "autoload": {
+        "psr-4": {
+            "Schachbulle\\ContaoEventschopsolutionBundle\\": "src/"
+        }
+    },
+    "support": {
+        "issues": "https://github.com/Samson1964/contao-eventschopsolution-bundle/issues",
+        "source": "https://github.com/Samson1964/contao-eventschopsolution-bundle"
+    }
+}
