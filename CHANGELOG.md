@@ -1,5 +1,9 @@
 # eventschopsolution Changelog
 
+## Version 0.0.2 (2022-06-24)
+
+* Fix: composer.json
+
 ## Version 0.0.1 (2022-06-24)
 
 Erste Version
