@@ -1,4 +1,6 @@
 services:
+    Schachbulle\ContaoEventschopsolutionBundle\EventListener\GetAllEventsListener:
+        public: true
     _instanceof:
         Contao\CoreBundle\Framework\FrameworkAwareInterface:
             calls:
