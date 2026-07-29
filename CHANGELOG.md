@@ -2,9 +2,9 @@
 
 ## Version 1.0.0 (2022-06-25)
 
-* Add: Filter für Kategorien
-* Add: Filter für Start- und Endedatum
-* Add: Filter für Suchbegriff (Titel, Teaser)
+* Add: Filter fÃ¼r Kategorien
+* Add: Filter fÃ¼r Start- und Endedatum
+* Add: Filter fÃ¼r Suchbegriff (Titel, Teaser)
 
 ## Version 0.0.2 (2022-06-24)
 
