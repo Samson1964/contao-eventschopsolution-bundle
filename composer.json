@@ -1,7 +1,14 @@
 {
     "name": "schachbulle/contao-eventschopsolution-bundle",
     "type": "contao-bundle",
-    "description": "Chopsolution-Bugfix für Contao 4",
+    "description": "Behebt Fehler in der Veranstaltungserweiterung von Chopsolution.",
+    "keywords": [
+        "contao",
+        "veranstaltung",
+        "bugfix",
+        "chopsolution"
+    ],
+    "homepage": "https://github.com/Samson1964/contao-eventschopsolution-bundle",
     "license": "LGPL-3.0-or-later",
     "authors": [
         {
